@@ -1,4 +1,4 @@
-# 📈 Stock Price Predictor Pro
+# 📈 Stock Price Predictor 
 
 A desktop application that utilizes Machine Learning to analyze historical stock data and forecast future price trends. Built with **Python**, **PyQt5**, and **scikit-learn**.
 
