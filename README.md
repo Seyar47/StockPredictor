@@ -2,8 +2,8 @@
 
 A desktop application that utilizes Machine Learning to analyze historical stock data and forecast future price trends. Built with **Python**, **PyQt5**, and **scikit-learn**.
 
-![App Screenshot](screenshot.png)
-![App Screenshot](screenshot2.png)
+![App Screenshot](screenshot.PNG)
+![App Screenshot](screenshot2.PNG)
 
 ## 🚀 Overview
 This tool allows users to input any stock ticker (e.g., AAPL, TSLA), fetches real-time historical data, and trains multiple machine learning models on the fly to predict stock movement for the next 7 days.
