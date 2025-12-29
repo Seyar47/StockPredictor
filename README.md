@@ -3,7 +3,6 @@
 A desktop application that utilizes Machine Learning to analyze historical stock data and forecast future price trends. Built with **Python**, **PyQt5**, and **scikit-learn**.
 
 ![App Screenshot](screenshot.png)
-*(Note: Add a screenshot of your app here)*
 ![App Screenshot](screenshot2.png)
 
 ## 🚀 Overview
